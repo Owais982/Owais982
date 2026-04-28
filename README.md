@@ -19,75 +19,24 @@
 
 ---
 
----
-
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=00FF41&center=false&width=500&lines=owais%40github%3A~%24+whoami;%3E+Full+Stack+Developer+%2B+Agentic+AI+Explorer;owais%40github%3A~%24+ls+projects%2F;%3E+OnlineToolSpot.shop++++ClothesERP;owais%40github%3A~%24+cat+status.txt;%3E+Open+to+opportunities+%F0%9F%9F%A2" />
 
-┌──(owais💀kali)-[~/portfolio]
-└─$ cat about_me.txt
+<br/>
 
-  🚀 Name    : Muhammad Owais
-  💼 Role    : Full Stack Developer
-  🔭 Building: OnlineToolSpot.shop
-               → 20+ free SaaS tools
-               → Live & growing
-  🤖 Exploring: Agentic AI + LLM APIs
-  🌍 Location : Kohat, Pakistan
-  🎯 Target   : Top software house in 2025
-  📬 Status   : Open to opportunities
+- 🚀 Building **[OnlineToolSpot.shop](https://onlinetoolspot.shop)** — live SaaS with 20+ free tools & growing
+- 🤖 Exploring **Agentic AI** — building apps that think, not just respond
+- 🏗️ Shipped a **multi-branch ERP** managing 3 locations with full RBAC
+- 🎯 Mission: land a role at a top software house in 2025
+- 📬 Status: **Open to opportunities** 🟢
 
-┌──(owais💀kali)-[~/portfolio]
-└─$ cat current_stack.json
-
-{
-  "frontend"  : ["Next.js", "React", "TypeScript"],
-  "backend"   : ["Node.js", "PHP", "REST APIs"],
-  "database"  : ["MongoDB", "MySQL"],
-  "ai"        : ["Agentic AI", "LLM APIs"],
-  "deploy"    : ["Vercel", "Firebase", "Supabase"]
-}
-
-┌──(owais💀kali)-[~/portfolio]
-└─$ git log --oneline
-
-a3f9c12  🚀 launched OnlineToolSpot.shop (20+ tools)
-b7d2e45  🏗️  shipped multi-branch ERP for 3 locations
-c1a8f33  🤖 started learning Agentic AI integrations
-d4e6b21  🎓 completed B.Sc Computer Science @ KUST
-e9f3c77  💡 initialized full-stack developer career
-
-┌──(owais💀kali)-[~/portfolio]
-└─$ _
-
+<br clear="right"/>
 
 ---
 
-
----
-
-## Why This Works
-
-- The **`bash` code block** renders as a dark syntax-highlighted terminal on GitHub
-- The **animated GIF** on the right (coding animation) makes it feel alive
-- The **`git log` section** is genius — it tells your whole story as commits, which recruiters in tech immediately recognize and love
-- The **`cat` commands** feel like they're actually reading your files
-
----
-
-## One More Power Move — Add This Right After
-
-This adds a real animated terminal typing effect above the section:
-
-```markdown
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=00FF41&center=false&width=500&lines=owais%40github%3A~%24+whoami;%3E+Full+Stack+Developer+%2B+Agentic+AI+Explorer;owais%40github%3A~%24+ls+projects%2F;%3E+OnlineToolSpot.shop++++ClothesERP;owais%40github%3A~%24+status;%3E+Open+to+opportunities+%F0%9F%9F%A2" />
-```
-
-This animates like a real terminal typing:
-
----
 
 ### 🛠️ Tech Stack
 
