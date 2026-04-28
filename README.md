@@ -67,16 +67,39 @@
 
 ### 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://onlinetoolspot.shop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Owais982&repo=OnlineToolSpot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
-  </a>
-</p>
+<div align="center">
 
-| Project | Description | Stack |
-|---|---|---|
-| [OnlineToolSpot.shop](https://onlinetoolspot.shop) | SaaS — 20+ free web tools, built solo | Next.js, TS, Node.js |
-| Clothes Management System | Multi-branch ERP with RBAC for 3 branches | PHP, MySQL, REST APIs |
+<a href="https://onlinetoolspot.shop">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Owais982&repo=OnlineToolSpot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&description_lines_count=2" />
+</a>
+<a href="https://github.com/Owais982">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Owais982&repo=clothes-management-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7&description_lines_count=2" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**`OnlineToolSpot.shop`**
+
+![](https://img.shields.io/badge/Type-SaaS_Platform-58a6ff?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Tools-20%2B_Live-3fb950?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Stack-Next.js_%7C_TypeScript_%7C_Node.js-a371f7?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Deploy-Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117)
+[![Live](https://img.shields.io/badge/🌐_Live-onlinetoolspot.shop-3fb950?style=flat-square&labelColor=0d1117)](https://onlinetoolspot.shop)
+
+<br/>
+
+**`Clothes Management System`**
+
+![](https://img.shields.io/badge/Type-Multi--Branch_ERP-58a6ff?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Branches-3_Locations-f78166?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Stack-PHP_%7C_MySQL_%7C_REST_APIs-a371f7?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Auth-RBAC_3_Roles-1a56a0?style=flat-square&labelColor=0d1117)
+
+</div>
 
 ---
 
