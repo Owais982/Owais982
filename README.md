@@ -113,7 +113,7 @@
 ### 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Owais982/Owais982/output/github-snake-dark.svg" />
+  <img src="https://github.com/Owais982/Owais982/blob/output/github-snake-dark.svg?raw=true" />
 </div>
 
 ---
