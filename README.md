@@ -43,7 +43,6 @@
 
 ---
 
-
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -69,35 +68,43 @@
 
 <div align="center">
 
-<a href="https://onlinetoolspot.shop">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Owais982&repo=OnlineToolSpot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&description_lines_count=2" />
-</a>
-<a href="https://github.com/Owais982">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Owais982&repo=clothes-management-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7&description_lines_count=2" />
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-</div>
-
-<br/>
-
-<div align="center">
-
-**`OnlineToolSpot.shop`**
-
+### 🌐 OnlineToolSpot.shop
+![](https://img.shields.io/badge/Status-Live-3fb950?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/Type-SaaS_Platform-58a6ff?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/Tools-20%2B_Live-3fb950?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/Stack-Next.js_%7C_TypeScript_%7C_Node.js-a371f7?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/Deploy-Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117)
-[![Live](https://img.shields.io/badge/🌐_Live-onlinetoolspot.shop-3fb950?style=flat-square&labelColor=0d1117)](https://onlinetoolspot.shop)
 
-<br/>
+> A full-stack SaaS platform with **20+ free web tools** — converters, generators, scanners & more. Built solo, end-to-end.
 
-**`Clothes Management System`**
+![](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178c6)
+![](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=3fb950)
+![](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white)
 
-![](https://img.shields.io/badge/Type-Multi--Branch_ERP-58a6ff?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/Branches-3_Locations-f78166?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/Stack-PHP_%7C_MySQL_%7C_REST_APIs-a371f7?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/Auth-RBAC_3_Roles-1a56a0?style=flat-square&labelColor=0d1117)
+[![🌐 Visit Live Site](https://img.shields.io/badge/🌐_Visit_Live_Site-3fb950?style=for-the-badge&labelColor=0d1117)](https://onlinetoolspot.shop)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏪 Clothes Management System
+![](https://img.shields.io/badge/Status-Completed-58a6ff?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Type-Multi--Branch_ERP-a371f7?style=flat-square&labelColor=0d1117)
+
+> Full-stack ERP managing **inventory, sales & stock** across 3 branches with role-based access control.
+
+![](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=777bb4)
+![](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479a1)
+![](https://img.shields.io/badge/REST_APIs-0d1117?style=flat-square&logo=fastapi&logoColor=f78166)
+![](https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap&logoColor=7952b3)
+
+![](https://img.shields.io/badge/3_Branches-f78166?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/RBAC_3_Roles-1a56a0?style=flat-square&labelColor=0d1117)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -105,7 +112,9 @@
 
 ### 🐍 Contribution Graph
 
-<img src="https://raw.githubusercontent.com/Owais982/Owais982/output/github-snake-dark.svg" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Owais982/Owais982/output/github-snake-dark.svg" />
+</div>
 
 ---
 
