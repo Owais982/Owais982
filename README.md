@@ -21,17 +21,23 @@
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=00FF41&center=false&width=500&lines=owais%40github%3A~%24+whoami;%3E+Full+Stack+Developer+%2B+Agentic+AI+Explorer;owais%40github%3A~%24+ls+projects%2F;%3E+OnlineToolSpot.shop++++ClothesERP;owais%40github%3A~%24+cat+status.txt;%3E+Open+to+opportunities+%F0%9F%9F%A2" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=00FF41&center=false&width=480&lines=owais%40github%3A~%24+whoami;%3E+Full+Stack+Developer+%2B+Agentic+AI+Explorer;owais%40github%3A~%24+ls+projects%2F;%3E+OnlineToolSpot.shop++++ClothesERP;owais%40github%3A~%24+cat+status.txt;%3E+Open+to+opportunities+%F0%9F%9F%A2" />
 
 <br/>
 
-- 🚀 Building **[OnlineToolSpot.shop](https://onlinetoolspot.shop)** — live SaaS with 20+ free tools & growing
-- 🤖 Exploring **Agentic AI** — building apps that think, not just respond
-- 🏗️ Shipped a **multi-branch ERP** managing 3 locations with full RBAC
-- 🎯 Mission: land a role at a top software house in 2025
-- 📬 Status: **Open to opportunities** 🟢
+![](https://img.shields.io/badge/🚀_Building-OnlineToolSpot.shop-58a6ff?style=flat-square&labelColor=0d1117)
+[![Live](https://img.shields.io/badge/20%2B_Tools-Live_&_Growing-3fb950?style=flat-square&labelColor=0d1117)](https://onlinetoolspot.shop)
+
+![](https://img.shields.io/badge/🤖_Exploring-Agentic_AI_+_LLM_APIs-a371f7?style=flat-square&labelColor=0d1117)
+
+![](https://img.shields.io/badge/🏗️_Shipped-Multi--Branch_ERP_(3_locations)-58a6ff?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/RBAC-3_Permission_Levels-1a56a0?style=flat-square&labelColor=0d1117)
+
+![](https://img.shields.io/badge/🎯_Target-Top_Software_House_2025-f78166?style=flat-square&labelColor=0d1117)
+
+![](https://img.shields.io/badge/📬_Status-Open_to_Opportunities-3fb950?style=flat-square&labelColor=0d1117&color=3fb950)
 
 <br clear="right"/>
 
