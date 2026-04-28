@@ -25,7 +25,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 
-```bash
+
 ┌──(owais💀kali)-[~/portfolio]
 └─$ cat about_me.txt
 
@@ -61,10 +61,10 @@ e9f3c77  💡 initialized full-stack developer career
 
 ┌──(owais💀kali)-[~/portfolio]
 └─$ _
-` `` `
+
 
 ---
-```
+
 
 ---
 
